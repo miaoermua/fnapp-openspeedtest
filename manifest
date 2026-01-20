@@ -13,4 +13,4 @@ desktop_uidir=ui
 desktop_applaunchname=openspeedtest.Application
 service_port=3000
 checkport=true
-changelog=测试
+changelog=正式版
