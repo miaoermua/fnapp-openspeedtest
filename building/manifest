@@ -1,0 +1,11 @@
+appname=openspeedtest
+version=1.0.0
+display_name=display-name
+desc="""app-description"""
+source=thirdparty
+maintainer=your-name
+distributor=your-name
+desktop_uidir=ui
+desktop_applaunchname=openspeedtest.Application
+service_port=3000
+platform=all

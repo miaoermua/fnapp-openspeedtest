@@ -1,0 +1,16 @@
+appname=openspeedtest
+version=2.0.6
+display_name=OpenSpeedTest
+desc="""SpeedTest by OpenSpeedTest™ - Free & Open-Source HTML5 Network Performance Estimation Tool."""
+platform=all
+source=thirdparty
+maintainer=openspeedtest
+maintainer_url=https://github.com/openspeedtest/Speed-Test
+distributor=miaoermua
+distributor_url=https://github.com/miaoermua/fnapp-openspeedtest
+ctl_stop=true
+desktop_uidir=ui
+desktop_applaunchname=openspeedtest.Application
+service_port=3000
+checkport=true
+changelog=测试

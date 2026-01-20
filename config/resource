@@ -1,0 +1,38 @@
+{
+    "docker-project":
+    {
+        "projects":
+        [
+            {
+                "name": "openspeedtest",
+                "path": "docker"
+            }
+        ]
+    },
+    "data-share":
+    {
+        "shares":
+        [
+            {
+                "name": "openspeedtest",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "docker-openspeedtest"
+                    ]
+                }
+            },
+            {
+                "name": "openspeedtest/data",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "docker-openspeedtest"
+                    ]
+                }
+            }
+        ]
+    }
+}

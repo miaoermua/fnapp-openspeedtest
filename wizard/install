@@ -1,0 +1,31 @@
+[
+  {
+    "stepTitle": "欢迎使用 openspeedtest/Speed-Test",
+    "items": [
+      {
+        "type": "tips",
+        "field": "wizard_default",
+        "label": "示例项",
+        "rules": [],
+        "options": [],
+        "helpText": "SpeedTest by OpenSpeedTest™ - Free & Open-Source HTML5 Network Performance Estimation Tool. SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. All we need is a static web server like NGINX. I started this project in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013."
+      },
+      {
+        "type": "tips",
+        "field": "wizard_default",
+        "label": "示例项",
+        "rules": [],
+        "options": [],
+        "helpText": "<br>"
+      },
+      {
+        "type": "tips",
+        "field": "wizard_default",
+        "label": "示例项",
+        "rules": [],
+        "options": [],
+        "helpText": "开启后，可以通过IP: 端口，飞牛webui/app 进行访问测试"
+      }
+    ]
+  }
+]
