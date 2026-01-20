@@ -5,6 +5,8 @@ SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performanc
 
 https://github.com/openspeedtest/Speed-Test
 
+占用端口：`3000`，此处 HTTPS 3001 端口不启用
+
 本仓库遵循原始许可证 MIT，二次修改或传播请使用相同许可证，并标注原始作者及信息。
 
 ## 截图
